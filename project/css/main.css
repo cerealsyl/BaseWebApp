@@ -3,7 +3,7 @@ body {
   background-color: cadetblue;
 }
 
-#demo{
+.demo{
   position: absolute;
   top: 50%;
   left: 50%;
